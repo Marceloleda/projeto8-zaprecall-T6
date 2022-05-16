@@ -1,7 +1,8 @@
 import '../home-screen/style-home.css';
 import React from 'react';
 import Top from '../top/top';
-import Questions from '../questions/questions';
+import Footer from '../footer/footer';
+
 
 export default function HomeScreen(){
     const logo = "./assets/img/logo.png";
